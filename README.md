@@ -27,7 +27,7 @@ Edit the `tickers` list near the bottom of the script to compare other assets.
 
 
 
-Higher volatility was generally associated with larger drawdowns. As volatility increased from approximately 15% to 35%, maximum drawdowns worsened from around -19% to -50%.
+-Higher volatility was generally associated with larger drawdowns. As volatility increased from approximately 15% to 35%, maximum drawdowns worsened from around -19% to -50%.
 
 
 
